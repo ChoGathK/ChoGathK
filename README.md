@@ -1,7 +1,7 @@
 # Hi there, I'm [ChoGathK!](https://github.com/ChoGathK/blogs) 👋
 
 [![](https://img.shields.io/badge/Chogath-blogs-1E90FF)](https://github.com/ChoGathK/blogs)
-[![](https://img.shields.io/badge/Chogath-A-Cheetah-97FFFF)](https://github.com/A-Cheetah)
+[![](https://img.shields.io/badge/Chogath-ACheetah-97FFFF)](https://github.com/A-Cheetah)
 [![](https://img.shields.io/badge/TypeScript-Node.js-C0FF3E)](https://nodejs.org/en)
 [![](https://img.shields.io/badge/TypeScript-Nest.js-FF6A6A)](https://nestjs.com/)
 [![](https://img.shields.io/badge/TypeScript-Vue.js-54FF9F)](https://cn.vuejs.org/)
