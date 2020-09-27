@@ -10,6 +10,11 @@
 [![](https://img.shields.io/badge/Golang-Golang-00BFFF)](https://golang.org/)
 [![](https://img.shields.io/badge/Rust-Rust-FA8072)](https://www.rust-lang.org/)
 
-![ReadMe Card1](https://github-readme-stats.vercel.app/api?username=ChoGathK&count_private=true&show_icons=true)
-
-<img width="250" height="250" src="https://github.com/JiaYangStudio/JiaYangStudio/blob/master/images/jiayang.png"/>
+ <div>
+    <div style="float:left">
+      <img src="https://github-readme-stats.vercel.app/api?username=ChoGathK&count_private=true&show_icons=true" width="100px"/>
+    </div>
+    <div style="float:left">
+      <img width="250" height="250" src="https://github.com/JiaYangStudio/JiaYangStudio/blob/master/images/jiayang.png"/>
+    </div>
+</div>
