@@ -3,7 +3,6 @@
 I'm [ChoGathK!](https://github.com/ChoGathK/blogs) 👋
 
 [![](https://img.shields.io/badge/Chogath-blogs-0ab9e6)](https://github.com/ChoGathK/blogs)
-[![](https://img.shields.io/badge/Chogath-v2ex-DCDCDC)](https://www.v2ex.com/member/chogath)
 
 ![ReadMe Card1](https://github-readme-stats.vercel.app/api?username=ChoGathK&count_private=true&show_icons=true)
 
