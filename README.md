@@ -1,5 +1,7 @@
 # Hi there, I'm [ChoGathK!](https://github.com/ChoGathK/blogs) 👋
 
+<div align=center>
+
 [![](https://img.shields.io/badge/TypeScript-Node.js-C0FF3E)](https://nodejs.org/en)
 [![](https://img.shields.io/badge/TypeScript-Nest.js-FF6A6A)](https://nestjs.com/)
 [![](https://img.shields.io/badge/TypeScript-Vue.js-54FF9F)](https://cn.vuejs.org/)
@@ -16,4 +18,6 @@
 
 [![](https://img.shields.io/badge/Chogath-OpenSource-97FFFF)](https://github.com/JiaYangStudio/JiaYangStudio)
 
-<div align=center><img width="250" height="250" src="https://github.com/JiaYangStudio/JiaYangStudio/blob/master/images/jiayang.png"/></div>
+<img width="250" height="250" src="https://github.com/JiaYangStudio/JiaYangStudio/blob/master/images/jiayang.png"/>
+
+</div>
