@@ -1,6 +1,4 @@
-# Hi there
-
-I'm [ChoGathK!](https://github.com/ChoGathK/blogs) 👋
+# Hi there, I'm [ChoGathK!](https://github.com/ChoGathK/blogs) 👋
 
 [![](https://img.shields.io/badge/TypeScript-Node.js-C0FF3E)](https://nodejs.org/en)
 [![](https://img.shields.io/badge/TypeScript-Nest.js-FF6A6A)](https://nestjs.com/)
