@@ -11,4 +11,4 @@
 [![](https://img.shields.io/badge/Golang-Golang-00BFFF)](https://golang.org/)
 [![](https://img.shields.io/badge/Rust-Rust-FA8072)](https://www.rust-lang.org/)
 
-<img display="inline-block" src="https://github-readme-stats.vercel.app/api?username=ChoGathK&count_private=true&show_icons=true"/>
+<img display="inline-block" src="https://github-readme-stats.vercel.app/api?username=ChoGathK&count_private=true&show_icons=true"&theme="radical"/>
