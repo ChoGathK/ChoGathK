@@ -11,10 +11,6 @@
 [![](https://img.shields.io/badge/Rust-Rust-FA8072)](https://www.rust-lang.org/)
 
  <div>
-    <div style="float:left">
-      <img src="https://github-readme-stats.vercel.app/api?username=ChoGathK&count_private=true&show_icons=true"/>
-    </div>
-    <div style="float:left">
-      <img width="250" height="250" src="https://github.com/JiaYangStudio/JiaYangStudio/blob/master/images/jiayang.png"/>
-    </div>
+      <img display="inline-block" src="https://github-readme-stats.vercel.app/api?username=ChoGathK&count_private=true&show_icons=true"/>
+      <img display="inline-block" width="250" height="250" src="https://github.com/JiaYangStudio/JiaYangStudio/blob/master/images/jiayang.png"/>
 </div>
