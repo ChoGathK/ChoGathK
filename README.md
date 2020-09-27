@@ -10,7 +10,10 @@
 
 ![ReadMe Card2](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoGathK&layout=compact)
 
-[![](https://img.shields.io/badge/Chogath-blogs-0ab9e6)](https://github.com/ChoGathK/blogs)
+[![](https://img.shields.io/badge/Chogath-blogs-1E90FF)](https://github.com/ChoGathK/blogs)
 
 ![ReadMe Card1](https://github-readme-stats.vercel.app/api?username=ChoGathK&count_private=true&show_icons=true)
 
+[![](https://img.shields.io/badge/Chogath-OpenSource-97FFFF)](https://github.com/JiaYangStudio/JiaYangStudio)
+
+<div align=center><img width="250" height="250" src="https://github.com/JiaYangStudio/JiaYangStudio/blob/master/images/jiayang.png"/></div>
