@@ -6,6 +6,7 @@
 [![](https://img.shields.io/badge/TypeScript-Nest.js-FF6A6A)](https://nestjs.com/)
 [![](https://img.shields.io/badge/TypeScript-Vue.js-54FF9F)](https://cn.vuejs.org/)
 [![](https://img.shields.io/badge/JavaScript-Koa-FFF68F)](https://koajs.com/)
+[![](https://img.shields.io/badge/JavaScript-Egg-87843b)](https://eggjs.org/zh-cn/)
 [![](https://img.shields.io/badge/JavaScript-Express-8B658B)](https://stores.express.com/)
 [![](https://img.shields.io/badge/Golang-Golang-00BFFF)](https://golang.org/)
 [![](https://img.shields.io/badge/Rust-Rust-FA8072)](https://www.rust-lang.org/)
