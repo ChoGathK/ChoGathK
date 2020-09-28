@@ -4,10 +4,10 @@
 [![](https://img.shields.io/badge/Chogath-ACheetah-97FFFF)](https://github.com/A-Cheetah)
 
 [![](https://img.shields.io/badge/TypeScript-Nest.js-FF6A6A)](https://nestjs.com/)
-[![](https://img.shields.io/badge/JavaScript-Egg.js-87843b)](https://eggjs.org/zh-cn/)
-[![](https://img.shields.io/badge/JavaScript-Koa-FFF68F)](https://koajs.com/)
-[![](https://img.shields.io/badge/JavaScript-Express-8B658B)](https://stores.express.com/)
+[![](https://img.shields.io/badge/TypeScript-Koa-FFF68F)](https://koajs.com/)
+[![](https://img.shields.io/badge/TypeScript-Express-8B658B)](https://stores.express.com/)
 [![](https://img.shields.io/badge/TypeScript-Vue.js-54FF9F)](https://cn.vuejs.org/)
+[![](https://img.shields.io/badge/JavaScript-Egg.js-87843b)](https://eggjs.org/zh-cn/)
 [![](https://img.shields.io/badge/JavaScript-UniApp-6b473c)](https://uniapp.dcloud.io/)
 
 
