@@ -4,4 +4,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [acheetahk](https://github.com/A-CheetahK/acheetahk).
+- 🔭 I’m currently working on [sophons](https://github.com/sophons-space).
