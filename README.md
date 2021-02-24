@@ -5,4 +5,4 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [sophons](https://github.com/sophons-space).
-- 📚 I'm writing something on [my-blogs](https://github.com/ChoGathK/blogs).
+- 📚 I'm writing something on [my blog](https://github.com/ChoGathK/blogs).
